@@ -10,7 +10,12 @@ Real-time delivery tracking & dispatch simulator. FastAPI backend · React + Vit
 
 ## 🎥 Demo
 
-[![Watch Demo](https://img.youtube.com/vi/ABC123XYZ/0.jpg)](https://www.youtube.com/watch?v=aRNyAb04mvM)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=aRNyAb04mvM">
+    <img src="https://img.youtube.com/vi/aRNyAb04mvM/0.jpg" width="600">
+  </a>
+</p>
+
 
 ## Prerequisites
 
